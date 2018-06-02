@@ -1,0 +1,27 @@
+{
+ "name": "property-resolver-js",
+  "version": "1.0.6",
+  "description": "Resolve properties in a json format properties syntax. Specify the placeholder prefix, postfix, and property delimiter to auto resolve values that reference other properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejeff77/property-resolver-js.git"
+  },
+  "keywords": [
+    "property",
+    "resolver",
+    "java",
+    "properties",
+    "placeholder",
+    "configurer"
+  ],
+  "author": "Jeffrey Blayney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejeff77/property-resolver/issues"
+  },
+  "homepage": "https://github.com/thejeff77/property-resolver#readme"
+}
