@@ -16,7 +16,7 @@ MIT
 ## installation and usage
 
 ``` bash
-npm install property-resolver-js
+npm install property-resolver-js 
 ```
 
 ``` javascript
